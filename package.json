@@ -1,0 +1,30 @@
+{
+  "name": "www-lite-server",
+  "version": "0.1.0",
+  "description": "My Sample App",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dineshkumar46146/Myapp"
+  },
+  "keywords": [
+    "lite-server"
+  ],
+  "author": "Todd Palmer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dineshkumar46146/Myapp/issues"
+  },
+  "homepage": "https://github.com/dineshkumar46146/Myapp#readme",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  },
+  "dependencies": {
+    "bootstrap": "^4.1.2",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.3"
+  }
+}
